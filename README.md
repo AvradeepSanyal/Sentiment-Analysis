@@ -1,2 +1,3 @@
 Sentiment-Analysis
+
 MoodDoc is an advanced sentiment analysis tool crafted to help users gain insights into the emotions conveyed within text documents and files. Utilizing cutting-edge machine learning models, MoodDoc is capable of analyzing the emotional tone across diverse content types, such as text files, PDFs, and other written formats. By assessing factors like word choice, context, and linguistic patterns, MoodDoc provides a detailed breakdown of the emotional nuances present in the text, enabling users to better understand the underlying sentiments. Whether for personal use, academic research, or business applications, MoodDoc offers a powerful means to interpret and quantify the emotional impact of written content.
